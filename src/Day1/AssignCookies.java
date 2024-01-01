@@ -5,7 +5,7 @@ import java.util.Arrays;
 //LeetCode
 //455. Assign Cookies
 //Link - https://leetcode.com/problems/assign-cookies/description/
-public class Main {
+public class AssignCookies {
     public static void main(String[] args) {
         System.out.println(findContentChildren(new int[]{1,2,3}, new int[] {1,4,1}));
     }
