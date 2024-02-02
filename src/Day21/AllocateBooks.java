@@ -25,7 +25,7 @@
 //    }
 //    public static int findPages(ArrayList<Integer> arr, int n, int m)
 //    {
-//     //   Solution s1 = new Solution();
+//        Solution s1 = new Solution();
 //        int max =0;
 //        int sum=0;
 //        int ans=-1;
@@ -57,7 +57,7 @@
 //
 //            int mid=(lo+ho)/2;
 //
-//           // if(s1.isPossible(arr,mid,m)==true)
+//            if(s1.isPossible(arr,mid,m)==true)
 //
 //            {
 //
