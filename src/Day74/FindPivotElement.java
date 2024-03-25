@@ -1,23 +1,25 @@
 package Day74;
-//Find the Pivot Integer
-//https://leetcode.com/problems/find-the-pivot-integer/?envType=daily-question&envId=2024-03-13
-public class FindPivotElement {
-    class Solution {
-        public int pivotInteger(int n) {
-            int totalSum = (n*(n+1))/2;
-            int curSum=0;
 
-            for(int i=n;i>=0;i--){
+class FindPivotElement{
+    public static void main(String[] args) {
+        String s="";
+        int[] arr={0,1,1,0,0,1,1,0,1};
 
-                curSum+=i;
-                if(curSum==totalSum){
-                    return i;
-                }
-                totalSum-=i;
+        int first=0;
+        int second=1;
+        int third=2;
+        int count=0;
 
+        while(third<arr.length) {
+            if(arr[first]==arr[third] && arr[second]!=arr[third]){
+                count++;
             }
-            return -1;
+            first=third;
+            second=third+1;
+            third=third+2;
         }
-    }
 
+        System.out.println(count);
+
+    }
 }
