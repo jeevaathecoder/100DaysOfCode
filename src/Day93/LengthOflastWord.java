@@ -7,7 +7,7 @@ public class LengthOflastWord {
 
             String[] arr= s.split(" ");
             int n=arr.length-1;
-            
+
             String ans=arr[n];
             return ans.length();
         }
