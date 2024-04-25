@@ -1,6 +1,7 @@
 package Day116;
 //https://leetcode.com/problems/longest-ideal-subsequence/
 //Longest Ideal Subsequence
+
 public class LongestIdealSubsequence {
     class Solution {
 
