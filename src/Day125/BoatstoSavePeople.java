@@ -16,7 +16,7 @@ public class BoatstoSavePeople {
                 }
                 right--;
                 boats++;
-            }
+            }   
             return boats;
         }
     }
