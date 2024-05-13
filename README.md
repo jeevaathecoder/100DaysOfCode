@@ -1,20 +1,34 @@
-📚 Java DSA-Problems Repository
-Welcome to the Java DSA Codes Repository! Here you will find a collection of Data Structures and Algorithms implemented in Java. Additionally, new problem solutions are uploaded daily to help you sharpen your problem-solving skills.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>📚 Java DSA-Problems Repository</h1>
+    <p>Welcome to the Java DSA Codes Repository! Here you will find a collection of Data Structures and Algorithms implemented in Java. Additionally, new problem solutions are uploaded daily to help you sharpen your problem-solving skills.</p>
 
-Folder Structure
-📁 src: Contains the Java source code files With Number Of DAYs.
-📁 Day Number Implementations of various data structures.
-📁 Problem Name Implementations of different algorithms.
-📁 problems: Solutions to new daily problems.
-Contributing
-Contributions are welcome! If you have a solution to a problem you'd like to share, feel free to upload it to the problems directory following the existing format. Make sure your code is well-commented and adheres to best practices.
+<h2>Folder Structure</h2>
+    <ul>
+        <li>📁 <strong>src:</strong> Contains the Java source code files With Number Of DAYs.
+            <ul>
+        <li>📁 <strong>Day Number</strong> Implementations of various data structures.</li>
+        <li>📁 <strong>Problem Name</strong> Implementations of different algorithms.</li>
+            </ul>
+        </li>
+        <li>📁 <strong>problems:</strong> Solutions to new daily problems.</li>
+    </ul>
 
-If you want to add a new data structure or algorithm implementation, please ensure it is well-tested and documented. Place it in the appropriate directory within the src folder.
+<h2>Contributing</h2>
+    <p>Contributions are welcome! If you have a solution to a problem you'd like to share, feel free to upload it to the <code>problems</code> directory following the existing format. Make sure your code is well-commented and adheres to best practices.</p>
+    <p>If you want to add a new data structure or algorithm implementation, please ensure it is well-tested and documented. Place it in the appropriate directory within the <code>src</code> folder.</p>
 
-Daily Problems
-Every day, a new problem solution will be uploaded to the problems directory. These problems cover a wide range of topics in data structures and algorithms and are designed to help you practice and improve your skills.
+ <h2>Daily Problems</h2>
+    <p>Every day, a new problem solution will be uploaded to the <code>problems</code> directory. These problems cover a wide range of topics in data structures and algorithms and are designed to help you practice and improve your skills.</p>
 
-Contact
-If you have any questions, suggestions, or concerns, feel free to reach out to me.
+<h2>Contact</h2>
+    <p>If you have any questions, suggestions, or concerns, feel free to reach out to me.</p>
 
-Keep coding passionately! 🚀
+<p>Keep coding passionately! 🚀</p>
+</body>
+</html>
